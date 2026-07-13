@@ -225,26 +225,6 @@ technical requirements.
 
 <br/>
 
-## 🎯 Current Focus
-
-```yaml
-learning:
-  - Advanced system design for high-throughput data pipelines
-  - GRE prep for European graduate program applications
-building:
-  - RO Intelligence Platform deployment (Neon + Render + Vercel)
-  - Personal full-stack consulting dashboard (dark, data-dense UI)
-exploring:
-  - AI/ML research directions for grad school (France & Germany)
-  - Summer 2027 software engineering internship opportunities
-open_to:
-  - Software Engineering Internships
-  - Data Science / AI collaborations
-  - Research opportunities in applied ML
-```
-
-<br/>
-
 ## 📫 Connect
 
 <div align="center">
